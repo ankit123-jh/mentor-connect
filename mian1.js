@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // // cart open close
 // let cartIcon = document.querySelector("#cart-icon");
 // let cart=document.querySelector(".cart");
@@ -9,4 +10,17 @@
 // //close cart
 // closeCart.onclick = () => {
 //     cart.classList.remove("active");
+=======
+// // cart open close
+// let cartIcon = document.querySelector("#cart-icon");
+// let cart=document.querySelector(".cart");
+// let closeCart=document.querySelector("#close-cart");
+// //open cart
+// cartIcon.onclick = () => {
+//     cart.classList.add("active");
+// }
+// //close cart
+// closeCart.onclick = () => {
+//     cart.classList.remove("active");
+>>>>>>> bd5ec25 (hfghff)
 // }   
